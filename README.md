@@ -3,14 +3,11 @@ Hi 👋 My name is MAYANK KUMAR
 
 Web developer | Competitive Programmer
 --------------------------------------
-
-Hey, I am a prefinal year student pursuing B.Tech in Computer science and engineering at Aryabhatta Knowledge University, Patna. I am a web developer with experience working on projects. I am driven by roles that will leverage my strengths in a Software Development capacity for a mutually rewarding experience.
-
 * 🌍  I'm based in Patna, India
 * 🖥️  See my portfolio at [https://mayankbarnwal.herokuapp.com/](http://mayankbarnwal.herokuapp.com/)
 * ✉️  You can contact me at [mayankkumar20112000@gmail.com](mailto:mayankkumar20112000@gmail.com)
 * 🚀  I'm currently working on [Chat App Project with realtime messaging Functionality](http://#)
-* 🧠  I'm learning React JS
+
 
 ### Skills
 
