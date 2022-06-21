@@ -6,7 +6,7 @@ Web developer | Competitive Programmer
 * 🌍  I'm based in Patna, India
 * 🖥️  See my portfolio at [https://mayankbarnwal.herokuapp.com/](http://mayankbarnwal.herokuapp.com/)
 * ✉️  You can contact me at [mayankkumar20112000@gmail.com](mailto:mayankkumar20112000@gmail.com)
-* 🚀  I'm currently working on [Chat App Project with realtime messaging Functionality](http://#)
+
 
 
 ### Skills
