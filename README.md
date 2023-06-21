@@ -4,7 +4,7 @@ Hi 👋 My name is MAYANK KUMAR
 Web developer | Competitive Programmer
 --------------------------------------
 * 🌍  I'm based in Patna, India
-* 🖥️  See my portfolio at [https://mayankbarnwal.herokuapp.com/](http://mayankbarnwal.herokuapp.com/)
+* 🖥️  See my portfolio at [https://mayankbarnwal7808.netlify.app/](https://mayankbarnwal7808.netlify.app/)
 * ✉️  You can contact me at [mayankkumar20112000@gmail.com](mailto:mayankkumar20112000@gmail.com)
 
 
